@@ -1,5 +1,5 @@
 <h3>Bot-Control</h3>
-<img src="botcontrol.jpg" alt="bot-control" style="width:300px;">
+<img src="botcontrol.jpg" alt="bot-control">
 <p>
     This code, written in Python, uses a bot to control a Windows device via a Telegram bot.
 </p>
