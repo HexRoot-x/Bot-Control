@@ -1,0 +1,6 @@
+telebot
+subprocess
+pyautogui
+psutil
+cv2
+datetime
